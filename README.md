@@ -37,7 +37,7 @@ report/                                   # Documentation, write-up, and final r
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 - **Languages:** Python (PySpark)  
 - **Frameworks:** Apache Spark (distributed processing)  
 - **Storage:** HDFS (raw & processed data), PostgreSQL (aggregated results)  
